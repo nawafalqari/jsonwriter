@@ -1,4 +1,4 @@
-# Easy JSON Writer
+# JSON Writer
 Easy package to write JSON files
 
 ## About
