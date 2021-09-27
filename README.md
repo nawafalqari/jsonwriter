@@ -1,8 +1,8 @@
 # Easy JSON Writer
-Easy JSON Writer, when i say easy i mean super easy
+Easy package to write JSON files
 
 ## About
-`jsonwriter` is an easy package to write json files
+`jsonwriter` is an easy JSON writer, when i say easy i mean super easy
 ##### Made by <a href="https://nawaf.cf">Nawaf Alqari<a> in 2021
 
 ## Installation 
