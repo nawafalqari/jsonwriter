@@ -28,14 +28,14 @@ db = file('names.json')
 print(db.get('name')) # Nawaf
 print(db.get('age')) # 10
 
-db.set('age', 30, indent=None) # {"name": "Nawaf", "age": 30}
+# Recommended indent is 3, to make it more readable
+db.set('age', 30, indent=0) # {"name": "Nawaf", "age": 30}
 db.set('age', 30, indent=3)
-'''
-{
-    "name": "Nawaf",
-    "age": 30
-}
-'''
+
+# {
+#     "name": "Nawaf",
+#     "age": 30
+# }
 
 print(db.hasKey('name')) # True
 print(db.hasValue('Nawaf')) # True
