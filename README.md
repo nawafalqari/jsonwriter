@@ -8,7 +8,7 @@ Easy package to write JSON files
 ## Installation 
 ### PIP
 ```bash
-npm install brain.js
+pip install jsonwriter
 ```
 
 ## Examples
