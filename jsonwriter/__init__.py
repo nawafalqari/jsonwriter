@@ -1,1 +1,1 @@
-from .jsonwriter import file
+from jsonwriter import file
